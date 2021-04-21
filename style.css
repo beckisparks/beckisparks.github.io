@@ -8,7 +8,6 @@ main {
     background-color: rosybrown;
     width: 500px;
     color: black;
-    font-size: 25px;
 }
 
 h1 {
@@ -16,8 +15,10 @@ h1 {
     font-style: bold underline;
     border: pink solid 10px;
     padding: 10px 5px 10px 5px;
+    font-size: 25px;
+
 }
 p {
-    font-size: 14px;
+    font-size: 16px;
     font-style: bold;
 }
