@@ -3,10 +3,11 @@ body {
     background-color: black;
     width: 700px;
     border: dotted hotpink 20px;
+    align-content: center;
 }
 main {
     background-color: rosybrown;
-    width: 500px;
+    width: 700px;
     color: black;
 }
 
