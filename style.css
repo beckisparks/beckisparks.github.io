@@ -7,6 +7,12 @@ body {
 }
 
 h1 {
-    color: darkmagenta;
+    color: black;
     font-style: bold underline;
+    border: pink solid 10px;
+    padding: 10px 5px 10px 5px;
+}
+p {
+    font-size: 12px;
+    color: cornflowerblue;
 }
