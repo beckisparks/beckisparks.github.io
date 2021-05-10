@@ -11,6 +11,12 @@ main {
     color: black;
 }
 
+section {
+    background-color: rosybrown;
+    width: 700px;
+    color: black;
+}
+
 h1 {
     color: black;
     font-style: bold underline;
